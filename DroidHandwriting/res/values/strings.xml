@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Droid Handwriting</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Settings">settings_string</string>
+    <string name="clear">Clear</string>
+    <string-array name="color_picker">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+        <string name="apply">Apply Changes!</string>
+        <string name="chooseColor">Choose a color</string>
+        <string name="clearScreen">Clear the screen</string>
+        <string name="output">Output</string>
+        <string name="reco">Recognize!</string>
+</resources>
